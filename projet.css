@@ -1,0 +1,65 @@
+#titre{
+    
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    border: solid ;
+    border-radius: 10px;
+    background-color: rgb(14, 117, 14);
+}
+#img1{
+border-radius: 50px;
+margin-block: -20px;
+
+    display: block;
+    height: 240px;
+    width: 180px;
+    margin-left: 15px;
+    
+}
+span{
+    font-size: 15px;
+    color:white;
+    background-color: green;
+
+}
+#bien{
+    margin-top: 150px;
+   
+    font-size: 60px;
+    color: rgb(14, 117, 14);
+    text-align: center;
+    font-weight: bold;
+}
+#nom{
+    margin-left: 420px;
+    font-size: 60px;
+    
+    margin-block: 10px;
+}
+#tel{
+    margin-left: 420px;
+    margin-block: -20px;
+    font-size: 60px;
+    
+}
+
+    
+  body{
+    background-color: rgb(240, 240, 240);
+  }
+   
+#mrc{
+    height: 240px;
+    width: 390px;
+   margin-top: -150px;
+   border-radius: 15px;
+    
+}
+#bouton{
+    height: 240px;
+    width: 180px;
+    margin-left: 1100px;
+    margin-top: -250px;
+    border-radius: 30px;
+}
