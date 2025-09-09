@@ -51,9 +51,11 @@ span{
    
 #mrc{
     height: 240px;
-    width: 390px;
-   margin-top: -150px;
-   border-radius: 15px;
+    width: 480px;
+    margin-left: 400px;
+    margin-top: -600px;
+    margin-bottom: 20px;
+    border-radius: 50px;
     
 }
 #bouton{
@@ -62,4 +64,5 @@ span{
     margin-left: 1100px;
     margin-top: -250px;
     border-radius: 30px;
+
 }
