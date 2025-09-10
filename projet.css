@@ -33,14 +33,16 @@ span{
     font-weight: bold;
 }
 #nom{
-  font-size: 60px;
-     
+  font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+     font-style: italic;
     margin-block: 25px;
 }
 #tel{
+   font-family: 'Courier New', Courier, monospace;
     margin-block: -10px;
-    font-size: 60px;
-    
+    font-size: 30px;
+    font-style: italic;
 }
 
     
@@ -65,4 +67,5 @@ span{
     border-radius: 30px;
 
 }
+
 
